@@ -6,5 +6,3 @@ function calculate_age(dob) {
 }
 
 let age = calculate_age(new Date(/* year = */ 1998,/* month = */ 3,/* day = */ 7));
-
-console.log(age);
